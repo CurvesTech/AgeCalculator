@@ -272,6 +272,16 @@
     .content-box {
 			width: 100%;
 		}
+
+		.buttons-box {
+			flex-direction: column;
+		}
+
+		.buttons-box button {
+			flex: none;
+			display: block;
+			width: 100%;
+		}
   }
 	
 </style>
