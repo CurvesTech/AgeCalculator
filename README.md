@@ -1,5 +1,8 @@
 # agecalculator
 
+## Demo
+[View a working demo](https://calculatemyage.netlify.app).
+
 ## Project setup
 ```
 npm install
